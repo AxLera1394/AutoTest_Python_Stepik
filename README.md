@@ -1,2 +1,2 @@
 # AutoTest_Python_Stepik
-https://stepik.org/course/575/promo#toc
+Ссылка на курс: https://stepik.org/course/575/promo#toc
